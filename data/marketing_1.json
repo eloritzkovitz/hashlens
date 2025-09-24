@@ -1,0 +1,14 @@
+{
+  "campaign_name": "Summer Promo",
+  "target_audience": ["teenagers", "young adults"],
+  "budget": 12000,
+  "channels": ["email", "social_media", "ads"],
+  "start_date": "2025-06-01",
+  "end_date": "2025-08-31",
+  "metrics": {
+    "click_through_rate": 0.12,
+    "conversion_rate": 0.05,
+    "impressions": 150000
+  },
+  "team": ["Alice", "Bob", "Carol"]
+}

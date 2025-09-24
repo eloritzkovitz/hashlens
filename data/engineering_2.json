@@ -1,0 +1,14 @@
+{
+  "system": "Payment Gateway",
+  "modules": ["Auth", "Transactions", "Reporting"],
+  "version": "2.1.0",
+  "maintainers": ["Heidi", "Ivan", "Judy"],
+  "tests": {
+    "unit": 120,
+    "integration": 30,
+    "e2e": 10
+  },
+  "status": "stable",
+  "last_update": "2025-09-22",
+  "server": "GCP"
+}

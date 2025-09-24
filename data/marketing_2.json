@@ -1,0 +1,10 @@
+{
+  "newsletter": "Weekly Deals",
+  "subscribers": 50000,
+  "open_rate": 0.25,
+  "click_rate": 0.08,
+  "social_media_posts": 10,
+  "campaign_manager": "David",
+  "budget": 3000,
+  "regions": ["US", "EU"]
+}

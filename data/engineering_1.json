@@ -1,0 +1,13 @@
+{
+  "project_name": "Inventory API",
+  "version": "1.3.5",
+  "team": ["Eve", "Frank", "Grace"],
+  "tasks": [
+    {"id": 1, "task": "Setup DB", "status": "done"},
+    {"id": 2, "task": "Create API endpoints", "status": "in_progress"},
+    {"id": 3, "task": "Unit tests", "status": "pending"}
+  ],
+  "languages": ["Python", "TypeScript"],
+  "frameworks": ["FastAPI", "React"],
+  "deployment": {"server": "AWS", "region": "us-east-1"}
+}
