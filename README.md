@@ -9,24 +9,6 @@ HashLens is a tool for analyzing, fingerprinting, and classifying JSON files by 
 - **Classify files:** Predict department based on similarity to stored signatures.
 - **Batch Classify:** Upload and classify multiple JSON files at once.
 
-## Project Structure
-
-```
-hashlens.db
-requirements.txt
-backend/
-    api.py
-    classify.py
-    fingerprint.py
-data/
-    engineering_1.json
-    engineering_2.json
-    marketing_1.json
-    marketing_2.json
-frontend/
-    app.py
-```
-
 ## Getting Started
 
 ### 1. Install dependencies
@@ -58,6 +40,21 @@ streamlit run frontend/app.py
 
 See the `data/` folder for sample files.
 
-## License
+## Project Structure
 
-MIT
+```
+hashlens.db
+requirements.txt
+backend/
+    api.py
+    classify.py
+    fingerprint.py
+data/
+    engineering_1.json
+    engineering_2.json
+    marketing_1.json
+    marketing_2.json
+frontend/
+    app.py
+```
+
